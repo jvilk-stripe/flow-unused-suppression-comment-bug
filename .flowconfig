@@ -1,0 +1,9 @@
+[version]
+0.117.0
+
+[options]
+include_warnings=true
+suppress_comment=\\(.\\|\n\\)*\\$FlowFixMe
+module.file_ext=.js
+# Makes behavior obvious, otherwise Flow immediately clears the warning.
+experimental.disable_live_non_parse_errors=true
