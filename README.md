@@ -10,5 +10,6 @@ Steps to reproduce:
 3. Open `src.js` and wait for Flow server to start up.
 4. Notice that `// $FlowFixMe` is underlined with a warning.
 5. Add a space to the end of the file.
-6. Notice that the warning disappears.
+6. Save the file.
+7. Notice that the warning disappears.
 

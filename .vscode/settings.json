@@ -1,0 +1,6 @@
+{
+    "flow.useNPMPackagedFlow": true,
+    "flow.useLSP": true,
+    "javascript.validate.enable": false,
+    "javascript.format.enable": false
+}
